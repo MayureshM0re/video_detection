@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mayuresh/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_ros/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_dds_tests/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_sitl/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/lidar_person_detector/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mayuresh/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_ros/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_dds_tests/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_sitl/local/lib/python3.10/dist-packages",
+        "/home/mayuresh/ros2_ws/install/lidar_person_detector/lib/python3.10/site-packages",
+        "/home/mayuresh/ros2_ws/install/ardupilot_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
